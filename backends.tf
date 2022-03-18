@@ -3,7 +3,7 @@ terraform {
     organization = "LUIT-Green-Team"
 
     workspaces {
-      name = "docker-project"
+      name = "project-test"
     }
   }
 }
